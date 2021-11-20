@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Roxiler/static/css/main.777a5a5a.chunk.css",
+    "main.js": "/Roxiler/static/js/main.b8cc520a.chunk.js",
+    "main.js.map": "/Roxiler/static/js/main.b8cc520a.chunk.js.map",
+    "runtime-main.js": "/Roxiler/static/js/runtime-main.adb4ef8e.js",
+    "runtime-main.js.map": "/Roxiler/static/js/runtime-main.adb4ef8e.js.map",
+    "static/js/2.8b8cd45a.chunk.js": "/Roxiler/static/js/2.8b8cd45a.chunk.js",
+    "static/js/2.8b8cd45a.chunk.js.map": "/Roxiler/static/js/2.8b8cd45a.chunk.js.map",
+    "index.html": "/Roxiler/index.html",
+    "static/css/main.777a5a5a.chunk.css.map": "/Roxiler/static/css/main.777a5a5a.chunk.css.map",
+    "static/js/2.8b8cd45a.chunk.js.LICENSE.txt": "/Roxiler/static/js/2.8b8cd45a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adb4ef8e.js",
+    "static/js/2.8b8cd45a.chunk.js",
+    "static/css/main.777a5a5a.chunk.css",
+    "static/js/main.b8cc520a.chunk.js"
+  ]
+}
